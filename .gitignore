@@ -5,9 +5,7 @@ CNN/__pycache__/
 .ipynb_checkpoints/
 ~*
 *.pdf
-*.jpg
 *.docx
 RestNet50v15_imagenet/
-*.xlsx
 Untitled.ipynb
 pasos.txt
